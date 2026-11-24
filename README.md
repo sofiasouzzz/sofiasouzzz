@@ -23,7 +23,7 @@
 - 🍓 hardening servers (SELinux, firewalld, Fail2Ban) and keeping everything happy
 - ✨ automating the boring stuff with **Ansible**
 - 🌐 studying **HTTP** and how the web really works
-- 🍵 curious about self-hosting and local AI tooling
+- 🏡 self-hosting my own little cloud with **Docker**: photos on **Immich** and movies and shows on **Jellyfin**
 <br clear="right"/>
 
 ## ♡ currently studying ♡
@@ -45,7 +45,6 @@
 ![PHP-FPM](https://img.shields.io/badge/PHP--FPM-C7CEEA?style=flat-square&logo=php&logoColor=5D4157)
 
 ### 🐧 infra & automation
-![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-B5EAD7?style=flat-square&logo=rockylinux&logoColor=5D4157)
 ![Linux](https://img.shields.io/badge/Linux-FFF5BA?style=flat-square&logo=linux&logoColor=5D4157)
 ![Apache](https://img.shields.io/badge/Apache-FFB6C1?style=flat-square&logo=apache&logoColor=5D4157)
 ![Ansible](https://img.shields.io/badge/Ansible-FFB6C1?style=flat-square&logo=ansible&logoColor=5D4157)
@@ -55,16 +54,16 @@
 ![firewalld](https://img.shields.io/badge/firewalld-FFDAC1?style=flat-square&logo=redhat&logoColor=5D4157)
 ![Fail2Ban](https://img.shields.io/badge/Fail2Ban-B5EAD7?style=flat-square&logoColor=5D4157)
 
+### 🏡 self-hosted
+![Docker](https://img.shields.io/badge/Docker-A0D8F1?style=flat-square&logo=docker&logoColor=5D4157)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-C7CEEA?style=flat-square&logo=docker&logoColor=5D4157)
+![Immich](https://img.shields.io/badge/Immich-FFB6C1?style=flat-square&logo=immich&logoColor=5D4157)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-E0BBE4?style=flat-square&logo=jellyfin&logoColor=5D4157)
+![Ollama](https://img.shields.io/badge/Ollama-FFF5BA?style=flat-square&logo=ollama&logoColor=5D4157)
+
 ### 🎀 version control
 ![Git](https://img.shields.io/badge/Git-FFDAC1?style=flat-square&logo=git&logoColor=5D4157)
 ![GitHub](https://img.shields.io/badge/GitHub-E0BBE4?style=flat-square&logo=github&logoColor=5D4157)
-
-## 🧸 tools i love
-
-![VS Code](https://img.shields.io/badge/VS_Code-A0D8F1?style=flat-square&logo=visualstudiocode&logoColor=5D4157)
-![Zed](https://img.shields.io/badge/Zed-C7CEEA?style=flat-square&logo=zedindustries&logoColor=5D4157)
-![Obsidian](https://img.shields.io/badge/Obsidian-E0BBE4?style=flat-square&logo=obsidian&logoColor=5D4157)
-![Ollama](https://img.shields.io/badge/Ollama-FFF5BA?style=flat-square&logo=ollama&logoColor=5D4157)
 
 <div align="center">
 
