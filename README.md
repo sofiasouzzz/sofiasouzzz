@@ -4,7 +4,7 @@
 
 ### ₍ᐢ•ﻌ•ᐢ₎ ♡ welcome to my little corner of the internet ♡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF85A2&center=true&vCenter=true&width=520&lines=Computer+Science+%F0%9F%8E%80;Backend+dev+in+the+making+%E2%98%95;Linux+%2B+Ansible+enthusiast+%F0%9F%90%A7" alt="typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF85A2&center=true&vCenter=true&width=520&lines=Computer+Science+%F0%9F%8E%80;Backend+dev+in+the+making+%E2%98%95;Linux+%2B+Ansible+enthusiast+%F0%9F%90%A7;Infrastructure+Enthusiast+%F0%9F%8E%80" alt="typing animation">
 
 </div>
 
